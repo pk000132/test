@@ -1,7 +1,7 @@
 pipeline {
   agent any
   stages {
-    stage('error') {
+    stage('kok') {
       steps {
         echo 'hello'
       }
